@@ -1,0 +1,7 @@
+D:\programacion orientada a objetos\POO3\POO3\bin\Debug\POO3.exe.config
+D:\programacion orientada a objetos\POO3\POO3\bin\Debug\POO3.exe
+D:\programacion orientada a objetos\POO3\POO3\bin\Debug\POO3.pdb
+D:\programacion orientada a objetos\POO3\POO3\obj\Debug\POO3.csproj.AssemblyReference.cache
+D:\programacion orientada a objetos\POO3\POO3\obj\Debug\POO3.csproj.CoreCompileInputs.cache
+D:\programacion orientada a objetos\POO3\POO3\obj\Debug\POO3.exe
+D:\programacion orientada a objetos\POO3\POO3\obj\Debug\POO3.pdb
